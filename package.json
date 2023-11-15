@@ -1,0 +1,33 @@
+{
+  "name": "aishwarya-react",
+  "version": "1.0.0",
+  "description": "This is react application by Aishwarya Ambekar",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitgirl1997/aishwaryareact.git"
+  },
+  "author": "Aishwarya Ambekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitgirl1997/aishwaryareact/issues"
+  },
+  "homepage": "https://github.com/gitgirl1997/aishwaryareact#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.1",
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.69.5"
+  },
+  "browserslists": [
+    "Last 2 Chrome version"
+  ]
+}
